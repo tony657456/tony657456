@@ -18,10 +18,15 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![HTML](https://img.shields.io/badge/HTML5-FF6550?style=flat-square&logo=HTML5&logoColor=white)](github.com/Joowon0220/TODO-List)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/Joowon0220/TODO-List)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)](github.com/Joowon0220/TODO-List)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)](github.com/Joowon0220/TODO-List)<br/>
+
+<h3>💌Email💌</h3>
+yyd980119@naver.com
 <br/><br/><br/>
+
 반갑습니다!! 호기심이 많은 육영득입니다.✨<br/>
 현재는 AI에 관심을 가지고 공부 중입니다!<br/>
-항상 뭐든 배우려는 자세를 가지고 임하겠습니다.
+항상 뭐든 배우려는 자세를 가지고 임하겠습니다.<br/>
+블로그: https://blog.naver.com/ghrn7989/222482692670
   
 </div>
